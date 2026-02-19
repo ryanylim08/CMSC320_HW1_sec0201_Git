@@ -14,3 +14,14 @@ science it allow biologists to process and analyze this data to assess
 success rates of reactions and also visualize sequencing data in a 
 scientist-friendly manner. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging treats each new commit as a separate branch that is outside
+the main branch. With rebasing, it takes commits and writes them over the
+history as if there never was a branch off. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about how to use code to 
+analyze data in ways that make it easy to observe trends and observations.
+
