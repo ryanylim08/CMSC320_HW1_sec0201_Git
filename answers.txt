@@ -1,0 +1,7 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: In cellular biology, oftentimes experimental results from sequencing
+reactions involve large amounts of data, mostly base-pair data. With data
+science it allow biologists to process and analyze this data to assess
+success rates of reactions and also visualize sequencing data in a 
+scientist-friendly manner. 
