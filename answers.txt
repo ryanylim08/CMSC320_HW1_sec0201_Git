@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows us to work locally on a shared project where we can each
+have a local copy of the project and make edits/changes without changing the 
+main project. After working locally Git also allows us to save all of our
+changes and commit them to a shared final project. 
